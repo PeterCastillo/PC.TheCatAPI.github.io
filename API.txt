@@ -1,0 +1,3 @@
+Query parameter(end-point): Son las variaciones que puede tener el link de una api para realizar determinadas acciones.
+Api_Key: Son las keys que usan los frond end para que de esta manera cada vez que hagamos una solicitud el backend nos pueda reconocer.
+Header: Son la espesificacion de como queremos enviar el mensaje.
